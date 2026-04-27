@@ -1,4 +1,4 @@
-# GRC and AI Portfolio
+# GRC and AI Project
 
 This repository is being built to showcase my practical work in Governance, Risk, and Compliance (GRC), cybersecurity, and AI-driven problem solving.
 
